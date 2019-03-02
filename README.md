@@ -1,0 +1,2 @@
+# AJAX
+AJAX,XHR,FETCH
